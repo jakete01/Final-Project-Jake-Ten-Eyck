@@ -1,3 +1,3 @@
 <header>
-    <h1>Vote for your favorite DCI show</h1>
+    <h1>The DCI Show Voting Site</h1>
 </header>
